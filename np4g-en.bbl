@@ -1,0 +1,111 @@
+\begin{thebibliography}{10}
+
+\bibitem{AutomaticProgramming}
+Avron Barr and Edward~A. Feigenbaum.
+\newblock Chapter x - automatic programming.
+\newblock In {\em The Handbook of Artificial Intelligence}, pages 295--379.
+  Butterworth-Heinemann, 1982.
+
+\bibitem{LogicTheorist}
+Leo Gugerty.
+\newblock Newell and simon's logic theorist: Historical background and impact
+  on cognitive modeling.
+\newblock {\em Proceedings of the Human Factors and Ergonomics Society Annual
+  Meeting}, 50(9):880--884, 2006.
+
+\bibitem{gpt3}
+Tom~B. Brown, Benjamin Mann, Nick Ryder, Melanie Subbiah, Jared Kaplan,
+  Prafulla Dhariwal, Arvind Neelakantan, Pranav Shyam, Girish Sastry, Amanda
+  Askell, Sandhini Agarwal, Ariel Herbert{-}Voss, Gretchen Krueger, Tom
+  Henighan, Rewon Child, Aditya Ramesh, Daniel~M. Ziegler, Jeffrey Wu, Clemens
+  Winter, Christopher Hesse, Mark Chen, Eric Sigler, Mateusz Litwin, Scott
+  Gray, Benjamin Chess, Jack Clark, Christopher Berner, Sam McCandlish, Alec
+  Radford, Ilya Sutskever, and Dario Amodei.
+\newblock Language models are few-shot learners.
+\newblock {\em CoRR}, abs/2005.14165, 2020.
+
+\bibitem{copilot}
+{GitHub Copilot}.
+\newblock \url{https://copilot.github.com/}.
+
+\bibitem{palsql}
+Keita Takenouchi, Takashi Ishio, Joji Okada, and Yuji Sakata.
+\newblock {PATSQL:} efficient synthesis of {SQL} queries from example tables
+  with quick inference of projected columns.
+\newblock {\em CoRR}, abs/2010.05807, 2020.
+
+\bibitem{math300}
+Tadao Nakahara.
+\newblock {\em Basic knowledge of arithmetic course in mathematics important
+  term 300 (in Japanese)}.
+\newblock Meijitoshoshuppan, 2000.
+
+\bibitem{saito:11}
+Narumi Saito.
+\newblock Logical thinking based on mathematical views and ways of thinking (in
+  japanese).
+\newblock {\em Research in educational practice and development, Gunma
+  University}, 28:31--37, 2011.
+
+\bibitem{inductive-reasoning}
+Setsuo Arikawa.
+\newblock Program synthesis by inductive inference and analogical reasoning.
+\newblock {\em Artificial Intelligence}, 2(3):299--306, 1987.
+
+\bibitem{CASE1983193}
+John Case and Carl Smith.
+\newblock Comparison of identification criteria for machine inductive
+  inference.
+\newblock {\em Theoretical Computer Science}, 25(2):193--220, 1983.
+
+\bibitem{4767034}
+Ryszard~S. Michalski.
+\newblock Pattern recognition as rule-guided inductive inference.
+\newblock {\em IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  PAMI-2(4):349--361, 1980.
+
+\bibitem{KnowledgeAI}
+Yihwa~Irene Liou.
+\newblock Knowledge acquisition: issues, techniques, and methodology.
+\newblock In {\em SIGBDP '90}, 1990.
+
+\bibitem{KAIssues}
+William~P. Wagner.
+\newblock Issues in knowledge acquisition.
+\newblock In {\em Proceedings of the 1990 ACM SIGBDP Conference on Trends and
+  Directions in Expert Systems}, SIGBDP '90, page 247–261, New York, NY, USA,
+  1990. Association for Computing Machinery.
+
+\bibitem{BlackBoxProblem}
+Jabbar Hussain.
+\newblock Deep learning black box problem.
+\newblock Master's thesis, Uppsala University, Department of Informatics and
+  Media, 2019.
+
+\bibitem{Koza1994}
+JohnR. Koza.
+\newblock Genetic programming as a means for programming computers by natural
+  selection.
+\newblock {\em Statistics and Computing}, 4(2), jun 1994.
+
+\bibitem{gnp}
+H.~Katagiri, K.~Hirasawa, and J.~Hu.
+\newblock Genetic network programming - application to intelligent agents.
+\newblock {\em Proceedings of the IEEE International Conference on Systems, Man
+  and Cybernetics}, 5:3829--3834, December 2000.
+\newblock 2000 IEEE International Conference on Systems, Man and Cybernetics ;
+  Conference date: 08-10-2000 Through 11-10-2000.
+
+\bibitem{StructuredProgramming}
+Richard~C. Linger, Bernard~I. Witt, and H.~D. Mills.
+\newblock {\em Structured Programming; Theory and Practice the Systems
+  Programming Series}.
+\newblock Addison-Wesley Longman Publishing Co., Inc., USA, 1st edition, 1979.
+
+\bibitem{adfs}
+John~R. Koza.
+\newblock {\em Genetic programming II : automatic discovery of reusable
+  programs}.
+\newblock MIT Press, 1992.
+
+\end{thebibliography}
